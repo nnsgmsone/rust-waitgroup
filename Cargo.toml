@@ -1,0 +1,14 @@
+[package]
+name = "rust-waitgroup"
+version = "0.1.0"
+edition = "2021"
+authors = ["nnsgmsone <nnsmgsone@outlook.com>"]
+license = "GPL-3.0"
+description = "A Golang like WaitGroup"
+repository = "https://github.com/nnsgmsone/rust-waitgroup"
+documentation = "https://docs.rs/rust-waitgroup"
+homepage = "https://github.com/nnsgmsone"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
